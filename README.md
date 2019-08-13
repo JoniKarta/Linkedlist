@@ -4,7 +4,7 @@ In this project i implemented the ADT of a linked list from scratch.
 
 ## Prerequisites
 
-knowledge in c porgramming and basic understanding of pointers.
+knowledge in c programming and basic understanding of pointers.
 
 ## What inside
  
